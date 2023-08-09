@@ -1,0 +1,12 @@
+-
+  username: zz
+  pwd: 123456
+  msg: 登录成功
+-
+  username: wm
+  pwd: 123456
+  msg: 登录帐号不存在
+-
+  username: zz
+  pwd: 1234567
+  msg: 密码错误
